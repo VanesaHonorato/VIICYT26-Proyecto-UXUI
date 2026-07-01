@@ -76,4 +76,4 @@ Durante la etapa de conceptualización se realizaron wireframes de baja fidelida
 
 # Conclusiones
 
-Durante esta etapa se logró definir la arquitectura inicial del sistema, la navegación entre los distintos tipos de usuarios y la distribución preliminar de las pantallas. Estas propuestas servirán como base para el diseño de alta fidelidad y el desarrollo de la interfaz.
+Durante esta etapa se logró definir la arquitectura inicial del sistema, la navegación entre los distintos tipos de usuarios y la distribución preliminar de las pantallas. Estas propuestas servirán como base para el diseño  y el desarrollo de la interfaz.
