@@ -22,7 +22,7 @@ El flujo de usuario se dividió en varias secciones para representar los diferen
 
 Pantalla principal desde donde los usuarios pueden conocer el proyecto e ingresar al sistema.
 
-
+![Sitemap](Portada.png)
 
 ---
 
