@@ -10,7 +10,7 @@ Definir la estructura de navegación de la plataforma mediante herramientas de U
 
 El siguiente Sitemap representa la estructura general de navegación del sistema de análisis de rendimiento estudiantil. En él se muestran los distintos módulos y pantallas disponibles para cada tipo de usuario.
 
-![Sitemap](Sitemap - Sistema de Análisis de Rendimiento Estudiantil (1).jpg)
+![Sitemap](Sitemap.jpg)
 
 ---
 
@@ -22,7 +22,7 @@ El flujo de usuario se dividió en varias secciones para representar los diferen
 
 Pantalla principal desde donde los usuarios pueden conocer el proyecto e ingresar al sistema.
 
-![Portada](Portada — Leyenda del Sitemap.png)
+
 
 ---
 
@@ -30,7 +30,7 @@ Pantalla principal desde donde los usuarios pueden conocer el proyecto e ingresa
 
 El alumno puede consultar su información académica, responder encuestas y visualizar sus indicadores personales.
 
-![Alumno](Sección — Alumno.png)
+![Alumno](Sección_Alumno.png)
 
 ---
 
@@ -38,7 +38,7 @@ El alumno puede consultar su información académica, responder encuestas y visu
 
 El coordinador tiene acceso a reportes generales, métricas y monitoreo de estudiantes.
 
-![Dashboard Coordinador](Sección — Dashboard Coordinador.png)
+![Coordinador](Sección_Dashboard_Coordinador.png)
 
 ---
 
@@ -46,7 +46,7 @@ El coordinador tiene acceso a reportes generales, métricas y monitoreo de estud
 
 El tutor puede revisar el avance académico de sus alumnos y detectar posibles riesgos.
 
-![Dashboard Tutor](Sección — Dashboard Tutor.png)
+![Tutor](Sección_Dashboard_Tutor.png)
 
 ---
 
@@ -54,7 +54,7 @@ El tutor puede revisar el avance académico de sus alumnos y detectar posibles r
 
 El administrador administra usuarios, permisos y la configuración general del sistema.
 
-![Dashboard Administrador](Sección — Dashboard Administrador.png)
+![Administrador](Sección_Dashboard_Administrador.png)
 
 ---
 
@@ -62,7 +62,7 @@ El administrador administra usuarios, permisos y la configuración general del s
 
 Permite consultar información pública del proyecto sin necesidad de iniciar sesión.
 
-![Vista Invitado](Sección — Vista Invitado.png)
+![Vista Invitado](Sección_Invitado.png)
 
 ---
 
