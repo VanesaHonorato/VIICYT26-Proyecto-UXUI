@@ -37,7 +37,6 @@ Durante esta semana se dejó preparado el entorno de desarrollo para comenzar co
 
 ---
 
----
 
 ## Semana 2
 
